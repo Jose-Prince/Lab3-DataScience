@@ -2,3 +2,4 @@ notebook
 pillow
 matplotlib
 pyfiglet
+tensorflow
